@@ -6,7 +6,7 @@ The Next.js frontend can be found [here](https://github.com/yannickLega/nextDjEv
 
 # Usage
 
-### Using Cloudinary
+## Using Cloudinary
 
 Create a .env file and add your Cloudinary info for images
 
